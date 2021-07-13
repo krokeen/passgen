@@ -7,4 +7,4 @@ in git
 
 with a small code by c++ to generate powerfull passwords
 
-<<KroKing<<endl;
+test it using long way
